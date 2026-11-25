@@ -1,2 +1,3 @@
 # Pro-gradu
-Pro gradu
+Pro gradu - tutkielma.
+Thesis.
